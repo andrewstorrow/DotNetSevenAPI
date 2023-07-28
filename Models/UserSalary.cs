@@ -1,4 +1,4 @@
-namespace DotNetSevenAPI
+namespace DotNetSevenAPI.Models
 {
     public partial class UserSalary
     {
